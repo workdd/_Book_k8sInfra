@@ -8,3 +8,19 @@
 - 2.2.3 가상 머신 추가로 구성하기
 ## 2.3 터미널 프로그램으로 가상 머신 접속하기
 - 2.3.3 슈퍼푸티로 다수의 가상 머신 접속하기
+
+## M1 Mac 환경 세팅
+### vagrant 설치
+```
+brew install vagrant
+```
+
+### Virtualbox 설치
+Intel Mac
+```
+brew install --cask virtualbox
+```
+M1/M2 Mac
+해당 경로에서 아래의 버전 설치
+**eveloper preview for macOS / Arm64 (M1/M2) hosts**
+- https://www.virtualbox.org/wiki/Downloads
