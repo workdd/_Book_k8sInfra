@@ -16,11 +16,12 @@ brew install vagrant
 ```
 
 ### Virtualbox 설치
-Intel Mac
-```
-brew install --cask virtualbox
-```
-M1/M2 Mac
-해당 경로에서 아래의 버전 설치
-**eveloper preview for macOS / Arm64 (M1/M2) hosts**
-- https://www.virtualbox.org/wiki/Downloads
+- Intel Mac
+  ```
+  brew install --cask virtualbox
+  ```
+- M1/M2 Mac <br/>
+  https://www.virtualbox.org/wiki/Downloads <br/>
+  해당 경로에서 아래의 버전 설치 <br/>
+  **eveloper preview for macOS / Arm64 (M1/M2) hosts**
+
